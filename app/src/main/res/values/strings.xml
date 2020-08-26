@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Assignment 3</string>
+    <string name="app_name">Memory Game</string>
+    <string name="resultTitle">Result</string>
+    <string name="p1Score">Player 1 Score</string>
+    <string name="p2Score">Player 2 Score</string>
+    <string name="score1Value">Score</string>
+    <string name="score2Value">Score</string>
+    <string name="newGameBtn">New Game</string>
+    <string name="exitBtn">Exit</string>
 </resources>
